@@ -1,0 +1,56 @@
+/* Custom Stylesheet */
+
+
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+#logo-container {
+    height: inherit;
+}
+
+.presentation {
+    background-image: url("http://www.cakelabs.lk/wp-content/uploads/2015/12/full-stack-developer.jpg");
+    background-repeat: no-repeat;
+    background-position: 50%;
+    height: 400px;
+
+}
+
+.cantsee {
+    opacity: 0;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.social {
+    font-size: 30px;
+}
+
+.fa:hover {
+    color: white !important
+}
+
+
+
+.madewith {
+    font-size: 20px;
+
+}
+
+.backgroundawesome{
+    height: 800px
+}
