@@ -27,24 +27,3 @@
         }); // end of document ready
     })
 })(jQuery); // end of jQuery name space
-
-var options = [{
-        selector: '#skills',
-        offset: 250,
-        callback: function(el) {
-            $(el).addClass("animated slideInLeft");
-            $(el).removeClass("cantsee")
-        }
-    },
-    {
-        selector: '#aboutMe',
-        offset: 250,
-        callback: function(el) {
-            $(el).addClass("animated slideInRight");
-            $(el).removeClass("cantsee")
-        }
-    }
-];
-
-
-Materialize.scrollFire(options);
