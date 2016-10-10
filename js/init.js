@@ -3,6 +3,9 @@
 
         $('.button-collapse').sideNav();
 
+        // model trigger
+        $('.modal-trigger').leanModal();
+        
         // Add smooth scrolling to all links
         $("a").on('click', function(event) {
 
