@@ -238,26 +238,6 @@ figure {
   margin-bottom: 1.5em;
 }
 
-<<<<<<< HEAD
-html{
-    min-height:100%;/* make sure it is at least as tall as the viewport */
-    position:relative;
-}
-body{
-    min-height:100%; /* force the BODY element to match the height of the HTML element */
-}
-
-.side-bar {
-    position:fixed;
-    top:0;
-    bottom:0;
-    left:0;
-    overflow:hidden;
-}
-
-.cantsee {
-    opacity: 0;
-=======
 .fh5co-counter .fh5co-number {
   font-size: 100px;
   color: #FFA102;
@@ -294,10 +274,6 @@ body{
   width: 50px;
 }
 
-<<<<<<< HEAD
-.social {
-    font-size: 25px;
-=======
 .fh5co-social {
   padding: 0;
   margin: 0;
@@ -382,7 +358,6 @@ body{
   letter-spacing: 2px;
   font-weight: bold;
   text-transform: uppercase;
->>>>>>> new_page
 }
 
 .chart {
