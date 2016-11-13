@@ -5432,10 +5432,6 @@ button.btn-floating {
   background-color: rgba(0, 0, 0, 0.05);
 }
 
-.side-nav .collapsible-header i,
-.side-nav.fixed .collapsible-header i {
-  line-height: inherit;
-}
 
 .side-nav .collapsible-body,
 .side-nav.fixed .collapsible-body {
@@ -5443,10 +5439,6 @@ button.btn-floating {
   background-color: #fff;
 }
 
-.side-nav .collapsible-body li a,
-.side-nav.fixed .collapsible-body li a {
-  padding: 0 23.5px 0 31px;
-}
 
 .collapsible.popout {
   border: none;
